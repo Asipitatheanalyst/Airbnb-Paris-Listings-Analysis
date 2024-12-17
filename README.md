@@ -53,6 +53,11 @@ The dataset used for this analysis is provided by Maven Analytics as part of the
 3. Trends Over Time:
    - Grouped listings by the year hosts joined Airbnb (host_since).
    - Calculated the average price and number of new hosts for each year.
+![Paris Accomodation](https://github.com/user-attachments/assets/156809d1-ac1b-4f4e-8ff1-528a98c62d99)
+
+![Paris Neighbourhood](https://github.com/user-attachments/assets/dc76bfd4-45b5-4798-830c-2da01a56085f)
+
+![New Airbnb Hosts](https://github.com/user-attachments/assets/24966fa0-c35f-4468-970f-8a6b6ec9b95f)
 
 ### Data Analysis
 #### Key tasks performed during analysis:
